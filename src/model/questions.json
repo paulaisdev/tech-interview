@@ -1,0 +1,73 @@
+[
+  {
+    "question": {
+      "id": 1,
+      "category": "background",
+      "question": "Você pode me contar um pouco sobre você?"
+    }
+  },
+
+  {
+    "question": {
+      "id": 2,
+      "category": "background",
+      "question": "O que você procura no seu próximo emprego?"
+    }
+  },
+  {
+    "question": {
+      "id": 3,
+      "category": "background",
+      "question": "Por que você está interessado nessa vaga? O que lhe chama atenção, especificamente?"
+    }
+  },
+  {
+    "question": {
+      "id": 4,
+      "category": "background",
+      "question": "Qual projeto você mais se orgulha de ter participado?"
+    }
+  },
+  {
+    "question": {
+      "id": 5,
+      "category": "background",
+      "question": "Quais são seus objetivos de carreira para o momento?"
+    }
+  },
+  {
+    "question": {
+      "id": 6,
+      "category": "background",
+      "question": "Me conta sobre alguns de seus pontos fortes e fracos."
+    }
+  },
+  {
+    "question": {
+      "id": 7,
+      "category": "background",
+      "question": "Você consegue pensar em um projeto ou entrega que realizou que teve grande impacto? O que te leva a pensar que esse foi um projeto transformador?"
+    }
+  },
+  {
+    "question": {
+      "id": 8,
+      "category": "background",
+      "question": "Qual foi o pior feedback que você já recebeu e como você lidou com ele?"
+    }
+  },
+  {
+    "question": {
+      "id": 9,
+      "category": "background",
+      "question": "Qual foi sua pior entrega e o que você aprendeu com ela?"
+    }
+  },
+  {
+    "question": {
+      "id": 10,
+      "category": "background",
+      "question": "Quais foram os maiores desafios da sua carreira até agora e como você lidou com eles? Pode citar exemplos da área ou de outras experiências"
+    }
+  }
+]
