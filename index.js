@@ -11,8 +11,8 @@ app.use("/", questionsRoutes);
 
 const PORT = 8080;
 
-app.listen(5000, () => {
-  console.log(`Servidor rodando na porta${PORT}`);
+app.listen(PORT || 8080, () => {
+  console.log(`Servidor rodando na porta ${PORT}`);
 });
 
 export default app;
