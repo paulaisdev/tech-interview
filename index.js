@@ -6,8 +6,8 @@ app.use(cors());
 
 app.use(express.json());
 
-import questionsRoutes from "./routes/questionsRoutes.js";
-app.use("/api", questionsRoutes);
+import questionsRoutes from "./src/routes/questionsRoutes.js";
+app.use("/", questionsRoutes);
 
 const PORT = 8080;
 
